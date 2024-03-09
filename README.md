@@ -15,8 +15,9 @@ Copy the files from RepairWith directory into the Config directory of the mod
 you want to work with and run repairwith.bat from there.
 
 Note:
-This tool is written in Python and requires Python installed. If anyone's interested in compiled exe
-file that doesn't require Python installed, feel free to let me know.
+This tool is written in Python and requires Python installed. Works with Python 3.11.4.
+
+If anyone's interested in compiled exe file that doesn't require Python installed, feel free to let me know.
 
 It is still work in progress. Unfortunately the tool as is is not ideal and has its
 flaws, but when it works it works fast, so it's better than manually searching through the mod files
